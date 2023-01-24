@@ -1,0 +1,25 @@
+certifi==2022.12.7
+contourpy==1.0.6
+cycler==0.11.0
+fonttools==4.38.0
+joblib==1.2.0
+kiwisolver==1.4.4
+llvmlite==0.39.1
+matplotlib==3.6.2
+numba==0.56.4
+numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1668919096861/work
+packaging==22.0
+pandas==1.5.2
+Pillow==9.3.0
+pyparsing==3.0.9
+PySide2==5.15.7
+python-dateutil==2.8.2
+pytz==2022.6
+scikit-learn==1.0.1
+scipy==1.9.3
+shiboken2==5.15.7
+shiboken6==6.2.4
+six==1.16.0
+tabulate==0.9.0
+threadpoolctl==3.1.0
+traits @ file:///home/conda/feedstock_root/build_artifacts/traits_1666949044186/work

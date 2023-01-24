@@ -1,0 +1,1 @@
+ERROR! Your file did not contain a valid structure, please input a valid structure file and try again. We currently only predict on structures containing Ni, Cu, Au, Pd, and/or Pt.
